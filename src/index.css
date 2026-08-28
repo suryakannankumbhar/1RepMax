@@ -1,0 +1,25 @@
+@import 'tailwindcss';
+
+@theme {
+    --color-background: #0a0a0a;
+    --color-surface: #171717;
+    --color-accent: #e5e5e5;
+    --color-muted: #737373;
+    --color-highlight: #3b82f6;
+}
+
+html,
+body {
+    @apply bg-background text-accent antialiased;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/* Ensures the app feels like a mobile app */
+#root {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}

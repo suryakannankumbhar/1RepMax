@@ -1,0 +1,352 @@
+[
+  {
+    "id": "ex_001",
+    "name": "Barbell Bench Press",
+    "muscleGroup": "Chest",
+    "type": "Barbell",
+    "description": "The classic compound pressing exercise for building chest strength, size, and overall upper-body power."
+  },
+  {
+    "id": "ex_002",
+    "name": "Incline Dumbbell Press",
+    "muscleGroup": "Chest",
+    "type": "Dumbbell",
+    "description": "Upper chest focused pressing movement allowing greater range of motion and balanced muscle development."
+  },
+  {
+    "id": "ex_003",
+    "name": "Decline Barbell Bench Press",
+    "muscleGroup": "Chest",
+    "type": "Barbell",
+    "description": "Heavy pressing movement emphasizing the lower chest while strengthening the triceps and shoulders."
+  },
+  {
+    "id": "ex_004",
+    "name": "Flat Dumbbell Press",
+    "muscleGroup": "Chest",
+    "type": "Dumbbell",
+    "description": "Compound chest exercise improving stability, muscle symmetry, and overall pectoral development."
+  },
+  {
+    "id": "ex_005",
+    "name": "Incline Barbell Bench Press",
+    "muscleGroup": "Chest",
+    "type": "Barbell",
+    "description": "Upper chest compound press ideal for building clavicular pectoral strength and size."
+  },
+  {
+    "id": "ex_006",
+    "name": "Decline Dumbbell Press",
+    "muscleGroup": "Chest",
+    "type": "Dumbbell",
+    "description": "Lower chest focused pressing variation with increased range of motion."
+  },
+  {
+    "id": "ex_007",
+    "name": "Machine Chest Press",
+    "muscleGroup": "Chest",
+    "type": "Machine",
+    "description": "Machine-based pressing movement designed for controlled chest hypertrophy."
+  },
+  {
+    "id": "ex_008",
+    "name": "Smith Machine Bench Press",
+    "muscleGroup": "Chest",
+    "type": "Smith Machine",
+    "description": "Guided pressing exercise allowing heavy loading with increased stability."
+  },
+  {
+    "id": "ex_009",
+    "name": "Chest Dip",
+    "muscleGroup": "Chest",
+    "type": "Bodyweight",
+    "description": "Compound bodyweight exercise emphasizing the lower chest and triceps."
+  },
+  {
+    "id": "ex_010",
+    "name": "Weighted Chest Dip",
+    "muscleGroup": "Chest",
+    "type": "Bodyweight",
+    "description": "Advanced chest dip variation using external resistance for greater strength gains."
+  },
+  {
+    "id": "ex_011",
+    "name": "Push-Up",
+    "muscleGroup": "Chest",
+    "type": "Bodyweight",
+    "description": "Fundamental bodyweight pressing movement developing the chest, shoulders, and triceps."
+  },
+  {
+    "id": "ex_012",
+    "name": "Weighted Push-Up",
+    "muscleGroup": "Chest",
+    "type": "Bodyweight",
+    "description": "Push-up variation using added resistance to increase muscular overload."
+  },
+  {
+    "id": "ex_013",
+    "name": "Deficit Push-Up",
+    "muscleGroup": "Chest",
+    "type": "Bodyweight",
+    "description": "Push-up performed with an increased range of motion for greater chest activation."
+  },
+  {
+    "id": "ex_014",
+    "name": "Cable Chest Fly",
+    "muscleGroup": "Chest",
+    "type": "Cable",
+    "description": "Isolation exercise maintaining constant tension across the chest."
+  },
+  {
+    "id": "ex_015",
+    "name": "Low-to-High Cable Fly",
+    "muscleGroup": "Chest",
+    "type": "Cable",
+    "description": "Cable fly variation emphasizing the upper chest fibers."
+  },
+  {
+    "id": "ex_016",
+    "name": "High-to-Low Cable Fly",
+    "muscleGroup": "Chest",
+    "type": "Cable",
+    "description": "Cable fly targeting the lower chest through a downward movement path."
+  },
+  {
+    "id": "ex_017",
+    "name": "Single Arm Cable Fly",
+    "muscleGroup": "Chest",
+    "type": "Cable",
+    "description": "Unilateral fly improving muscle symmetry and chest activation."
+  },
+  {
+    "id": "ex_018",
+    "name": "Pec Deck Fly",
+    "muscleGroup": "Chest",
+    "type": "Machine",
+    "description": "Machine isolation exercise maximizing chest contraction and muscle growth."
+  },
+  {
+    "id": "ex_019",
+    "name": "Dumbbell Fly",
+    "muscleGroup": "Chest",
+    "type": "Dumbbell",
+    "description": "Classic chest isolation movement producing a deep stretch and strong contraction."
+  },
+  {
+    "id": "ex_020",
+    "name": "Incline Dumbbell Fly",
+    "muscleGroup": "Chest",
+    "type": "Dumbbell",
+    "description": "Upper chest fly variation increasing stretch through the clavicular fibers."
+  },
+  {
+    "id": "ex_021",
+    "name": "Decline Dumbbell Fly",
+    "muscleGroup": "Chest",
+    "type": "Dumbbell",
+    "description": "Isolation movement emphasizing the lower chest with a deep stretch."
+  },
+  {
+    "id": "ex_022",
+    "name": "Dumbbell Pullover",
+    "muscleGroup": "Chest",
+    "type": "Dumbbell",
+    "description": "Compound movement engaging the chest, serratus anterior, and lats."
+  },
+  {
+    "id": "ex_023",
+    "name": "Svend Press",
+    "muscleGroup": "Chest",
+    "type": "Weight Plate",
+    "description": "Constant-tension chest squeeze exercise performed using a weight plate."
+  },
+  {
+    "id": "ex_024",
+    "name": "Resistance Band Chest Press",
+    "muscleGroup": "Chest",
+    "type": "Resistance Band",
+    "description": "Band-based pressing exercise ideal for home workouts and rehabilitation."
+  },
+  {
+    "id": "ex_025",
+    "name": "Resistance Band Chest Fly",
+    "muscleGroup": "Chest",
+    "type": "Resistance Band",
+    "description": "Band fly providing continuous resistance throughout the movement."
+  },
+  {
+    "id": "ex_026",
+    "name": "Lat Pulldown",
+    "muscleGroup": "Back",
+    "type": "Cable",
+    "description": "Classic vertical pulling exercise developing the lats and upper back."
+  },
+  {
+    "id": "ex_027",
+    "name": "Wide Grip Lat Pulldown",
+    "muscleGroup": "Back",
+    "type": "Cable",
+    "description": "Pulldown variation emphasizing upper lat width."
+  },
+  {
+    "id": "ex_028",
+    "name": "Close Grip Lat Pulldown",
+    "muscleGroup": "Back",
+    "type": "Cable",
+    "description": "Narrow-grip pulldown focusing on lower lat engagement."
+  },
+  {
+    "id": "ex_029",
+    "name": "Neutral Grip Lat Pulldown",
+    "muscleGroup": "Back",
+    "type": "Cable",
+    "description": "Joint-friendly vertical pulling exercise targeting the lats."
+  },
+  {
+    "id": "ex_030",
+    "name": "Single Arm Lat Pulldown",
+    "muscleGroup": "Back",
+    "type": "Cable",
+    "description": "Unilateral pulldown improving symmetry and mind-muscle connection."
+  },
+  {
+    "id": "ex_031",
+    "name": "Pull-Up",
+    "muscleGroup": "Back",
+    "type": "Bodyweight",
+    "description": "Elite bodyweight movement building upper-body pulling strength."
+  },
+  {
+    "id": "ex_032",
+    "name": "Weighted Pull-Up",
+    "muscleGroup": "Back",
+    "type": "Bodyweight",
+    "description": "Advanced pull-up variation for maximal back and arm strength."
+  },
+  {
+    "id": "ex_033",
+    "name": "Chin-Up",
+    "muscleGroup": "Back",
+    "type": "Bodyweight",
+    "description": "Supinated grip pull emphasizing both the lats and biceps."
+  },
+  {
+    "id": "ex_034",
+    "name": "Assisted Pull-Up",
+    "muscleGroup": "Back",
+    "type": "Machine",
+    "description": "Machine-assisted variation helping develop pull-up strength."
+  },
+  {
+    "id": "ex_035",
+    "name": "Barbell Row",
+    "muscleGroup": "Back",
+    "type": "Barbell",
+    "description": "Heavy rowing exercise building back thickness and posterior chain strength."
+  },
+  {
+    "id": "ex_036",
+    "name": "Pendlay Row",
+    "muscleGroup": "Back",
+    "type": "Barbell",
+    "description": "Explosive row starting from the floor to build power and upper-back strength."
+  },
+  {
+    "id": "ex_037",
+    "name": "Yates Row",
+    "muscleGroup": "Back",
+    "type": "Barbell",
+    "description": "Underhand row emphasizing the lower lats and middle back."
+  },
+  {
+    "id": "ex_038",
+    "name": "T-Bar Row",
+    "muscleGroup": "Back",
+    "type": "Barbell",
+    "description": "Heavy rowing movement targeting the lats, rhomboids, and traps."
+  },
+  {
+    "id": "ex_039",
+    "name": "Landmine Row",
+    "muscleGroup": "Back",
+    "type": "Barbell",
+    "description": "Landmine variation improving lat thickness and scapular strength."
+  },
+  {
+    "id": "ex_040",
+    "name": "Meadows Row",
+    "muscleGroup": "Back",
+    "type": "Barbell",
+    "description": "Single-arm landmine row emphasizing upper lats and rear delts."
+  },
+  {
+    "id": "ex_041",
+    "name": "Single Arm Dumbbell Row",
+    "muscleGroup": "Back",
+    "type": "Dumbbell",
+    "description": "Unilateral rowing movement improving back symmetry and lat activation."
+  },
+  {
+    "id": "ex_042",
+    "name": "Chest Supported Dumbbell Row",
+    "muscleGroup": "Back",
+    "type": "Dumbbell",
+    "description": "Supported row minimizing lower-back fatigue while maximizing upper-back work."
+  },
+  {
+    "id": "ex_043",
+    "name": "Seated Cable Row",
+    "muscleGroup": "Back",
+    "type": "Cable",
+    "description": "Horizontal pulling movement developing back thickness and posture."
+  },
+  {
+    "id": "ex_044",
+    "name": "Single Arm Cable Row",
+    "muscleGroup": "Back",
+    "type": "Cable",
+    "description": "Unilateral cable row improving balanced back development."
+  },
+  {
+    "id": "ex_045",
+    "name": "Chest Supported Machine Row",
+    "muscleGroup": "Back",
+    "type": "Machine",
+    "description": "Machine row designed for strict upper-back hypertrophy."
+  },
+  {
+    "id": "ex_046",
+    "name": "Hammer Strength High Row",
+    "muscleGroup": "Back",
+    "type": "Machine",
+    "description": "Machine row emphasizing the upper lats and rear shoulders."
+  },
+  {
+    "id": "ex_047",
+    "name": "Straight Arm Cable Pulldown",
+    "muscleGroup": "Back",
+    "type": "Cable",
+    "description": "Lat isolation exercise performed without elbow flexion."
+  },
+  {
+    "id": "ex_048",
+    "name": "Cable Pullover",
+    "muscleGroup": "Back",
+    "type": "Cable",
+    "description": "Isolation movement emphasizing full lat contraction."
+  },
+  {
+    "id": "ex_049",
+    "name": "Resistance Band Lat Pulldown",
+    "muscleGroup": "Back",
+    "type": "Resistance Band",
+    "description": "Portable lat exercise providing constant resistance with bands."
+  },
+  {
+    "id": "ex_050",
+    "name": "Inverted Row",
+    "muscleGroup": "Back",
+    "type": "Bodyweight",
+    "description": "Bodyweight horizontal pulling movement improving upper-back strength and scapular control."
+  }
+]
