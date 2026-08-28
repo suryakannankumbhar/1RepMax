@@ -118,6 +118,16 @@ function App() {
   };
 
   return (
+    <>
+    <div className="hidden sm:flex fixed inset-0 z-[9999] bg-background flex-col items-center justify-center p-8 text-center">
+        <div className="text-6xl mb-6 animate-bounce">📱</div>
+        <h2 className="text-3xl font-black text-accent mb-3">Mobile Only!</h2>
+        <p className="text-muted max-w-sm leading-relaxed">
+          1RepMax is engineered specifically as a pocket-sized gym companion.</p>
+          <p className="text-muted max-w-sm leading-relaxed">
+          Please open this application on your smartphone for the best experience.
+        </p>
+      </div>
     <Routes>
       <Route path="/login" element={!currentUser ? <Login /> : <Navigate to="/" />} />
       <Route path="/onboarding" element={<ProtectedRoute><Onboarding /></ProtectedRoute>} />
@@ -206,6 +216,8 @@ function App() {
         </ProtectedRoute>
       } />
     </Routes>
+    </>
+    
   );
 }
 
